@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Dimitra 
 
-I’m a Fullstack Developer 👩🏻‍💻
+I’m a Fullstack Developer👩🏻‍💻
 
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
