@@ -1,4 +1,4 @@
-### Hi 👋 I'm Dimitra
+### Hi 👋 I'm Dimitra 
 
 - 🔭 I’m a Fullstack Developer ...
 - Languages: JavaScript | TypeScript | HTML | CSS | 
@@ -6,9 +6,9 @@
 
 
 ## Contact Me
--  <a href="https://www.linkedin.com/in/dimitra-anastasopoulos-07810b247/" target="_blank">LinkedIn</a>
+- <i class="fa fa-linkedin-square" style="font-size:24px" <a href="https://www.linkedin.com/in/dimitra-anastasopoulos-07810b247/" target="_blank">LinkedIn</a>
 - 💻 <a href="https://dimitra-anasta.github.io/portfolio/" target="_blank">Portfolio</a>
 - 📫 [Email](mailto:dimitra.anasta524@gmail.com)
 
 
--->
+
