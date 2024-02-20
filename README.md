@@ -21,7 +21,6 @@ I’m a Full Stack Developer👩🏻‍💻
 ## Contact Me
 - <a href="https://www.linkedin.com/in/dimitra-anastasopoulos-07810b247/" target="_blank">LinkedIn</a>
 - 💻 <a href="https://dimitra-anasta.github.io/portfolio/" target="_blank">Portfolio</a>
-- 📫 [Email](mailto:dimitra.anasta524@gmail.com)
 
 
 
